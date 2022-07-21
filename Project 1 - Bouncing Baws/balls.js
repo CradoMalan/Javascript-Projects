@@ -1,7 +1,5 @@
 console.log("Hello World");
 
-/*
-
 var canvas = document.getElementById("canvas.css");
 var c = canvas.getContext("2d");
 var tx = window.innerWidth;
@@ -104,5 +102,3 @@ setInterval(function() {
   bal.push(new Ball());
   bal.splice(0, 1);
 }, 400);
-
-*/
